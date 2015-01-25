@@ -12,7 +12,7 @@ Here's example code for a simple arithmetic language:
 
     var opg = require("opg");
     
-    var tokenizer = opg.tokenize.SimpleTokenizer({
+    var tokenizer = opg.tokenize.Tokenizer({
         // Each regular expression is tried in order. They must be
         // strings (for concatenation purposes).
         regexps: [
