@@ -1,6 +1,6 @@
 {
   "name": "opg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Library to parse operator precedence grammars.",
   "main": "./lib/index.js",
   "scripts": {
