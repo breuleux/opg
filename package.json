@@ -13,8 +13,11 @@
     "url": "https://github.com/breuleux/opg"
   },
   "keywords": [
-    "Parsing"
+    "parsing", "parser"
   ],
   "author": "Olivier Breuleux",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "kaiser": "0.0.3"
+  }
 }
